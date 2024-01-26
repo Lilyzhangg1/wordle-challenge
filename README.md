@@ -14,9 +14,9 @@ User can choose number of rounds played and exit at any time. Win and you'll see
 
 
 ## Colour scheme:
-Green : *Correct letter* in **correct spot**.  
-Yellow : *Correct letter* in **wrong spot**.  
-Grey : *Wrong letter*.  
+Green🟩 : *Correct letter* in **correct spot**.  
+Yellow🟨 : *Correct letter* in **wrong spot**.  
+Grey☑️ : *Wrong letter*.  
 
 
 ## Contributors:
